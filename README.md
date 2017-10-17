@@ -1,2 +1,2 @@
-# kmp
-kmp algorithm
+# KMP
+KMP algorithm
